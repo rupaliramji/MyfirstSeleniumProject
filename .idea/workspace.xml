@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3da622cd-801f-4fc3-a518-37e8441e7dbc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/my-log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mystoretestcase/Tc_MyAccountPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mystoretestcase/Tc_MyAccountPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
       <recent name="com.mystoretestcase" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/rupaliramji/IdeaProjects/rupali/MyFirstProject/testng.xml">
+  <component name="RunManager" selected="Maven.MyFirstProject [test]">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,6 +115,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tc_MyAccountPageTest.createAnAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystoretestcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mystoretestcase" />
+      <option name="MAIN_CLASS_NAME" value="com.mystoretestcase.Tc_MyAccountPageTest" />
+      <option name="METHOD_NAME" value="createAnAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tc_ProductAddToCart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MyFirstProject" />
       <extension name="coverage">
@@ -146,23 +168,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tc_RegisteredAccountDataDriven" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MyFirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mystoretestcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.mystoretestcase" />
-      <option name="MAIN_CLASS_NAME" value="com.mystoretestcase.Tc_RegisteredAccountDataDriven" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="/Users/rupaliramji/IdeaProjects/rupali/MyFirstProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MyFirstProject" />
       <shortenClasspath name="NONE" />
@@ -184,19 +189,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.MyFirstProject [test]" />
+      <item itemvalue="TestNG.Tc_MyAccountPageTest.createAnAccount" />
       <item itemvalue="TestNG.Tc_MyAccountPageTest" />
       <item itemvalue="TestNG.Tc_ProductAddToCart" />
       <item itemvalue="TestNG.Tc_ProductAddToCart.AddProductToCart" />
-      <item itemvalue="TestNG.Tc_RegisteredAccountDataDriven" />
       <item itemvalue="TestNG./Users/rupaliramji/IdeaProjects/rupali/MyFirstProject/testng.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Tc_MyAccountPageTest.createAnAccount" />
         <item itemvalue="TestNG./Users/rupaliramji/IdeaProjects/rupali/MyFirstProject/testng.xml" />
         <item itemvalue="TestNG.Tc_ProductAddToCart" />
         <item itemvalue="TestNG.Tc_ProductAddToCart.AddProductToCart" />
         <item itemvalue="TestNG.Tc_MyAccountPageTest" />
-        <item itemvalue="TestNG.Tc_RegisteredAccountDataDriven" />
       </list>
     </recent_temporary>
   </component>

@@ -1,664 +1,73 @@
-[INFO ] 2024-03-18 19:01:23.445 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:01:24.958 [TestNG-test-Test1-3] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:01:24.991 [TestNG-test-Test1-3] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:01:25.773 [TestNG-test-Test1-3] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:01:51.511 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:01:53.471 [TestNG-test-Test1-1] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:01:53.500 [TestNG-test-Test1-1] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:01:53.505 [TestNG-test-Test1-1] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:03:07.864 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:03:09.725 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:03:09.759 [TestNG-test-Test1-1] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:03:09.787 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:03:09.817 [TestNG-test-Test1-1] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:03:10.704 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:03:12.695 [TestNG-test-Test1-2] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-18 19:03:13.357 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:03:13.388 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:03:13.807 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:03:14.849 [TestNG-test-Test1-2] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-18 19:07:10.013 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:07:11.871 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:07:11.904 [TestNG-test-Test1-1] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:07:11.931 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:07:11.958 [TestNG-test-Test1-1] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:07:12.793 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:07:14.684 [TestNG-test-Test1-2] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-18 19:07:15.293 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:07:15.320 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:07:15.692 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:07:16.738 [TestNG-test-Test1-2] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-18 19:07:44.474 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:07:46.414 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:07:46.443 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:07:46.447 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:07:50.599 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-18 19:07:50.630 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-18 19:07:54.903 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-18 19:08:09.932 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:08:24.346 [TestNG-test-Test1-1] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:08:24.374 [TestNG-test-Test1-1] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:08:24.378 [TestNG-test-Test1-1] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:09:21.554 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:09:21.596 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:09:22.461 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:09:24.791 [TestNG-test-Test1-2] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-18 19:09:25.439 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:09:25.478 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:09:25.824 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:09:27.011 [TestNG-test-Test1-2] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-18 19:11:23.349 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:11:25.275 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:11:25.309 [TestNG-test-Test1-1] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:11:25.337 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:11:25.367 [TestNG-test-Test1-1] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:11:26.200 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:11:28.088 [TestNG-test-Test1-2] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-18 19:11:28.745 [TestNG-test-Test1-2] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:11:28.772 [TestNG-test-Test1-2] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:11:29.141 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:11:30.185 [TestNG-test-Test1-2] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-18 19:12:18.862 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:12:20.918 [TestNG-test-Test1-2] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:12:20.942 [TestNG-test-Test1-1] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:12:20.975 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:12:20.995 [TestNG-test-Test1-1] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:12:20.998 [TestNG-test-Test1-2] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:12:21.957 [TestNG-test-Test1-1] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:12:23.992 [TestNG-test-Test1-1] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-18 19:15:16.406 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:15:18.464 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:15:18.491 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:15:18.495 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:15:20.202 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:15:20.227 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:15:20.230 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:15:24.381 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-18 19:15:24.412 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-18 19:15:29.042 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-18 19:19:08.554 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:19:10.095 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:19:10.127 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:19:11.179 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:19:13.334 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-18 19:19:14.043 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-18 19:19:14.072 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-18 19:19:14.430 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:19:15.478 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-18 19:19:48.064 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:19:49.994 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:19:50.024 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:19:50.028 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:29:30.075 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:29:32.936 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:29:32.963 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:29:32.967 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:30:00.038 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:30:01.949 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:30:01.976 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:30:01.980 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:30:36.221 [main] MyFirstProject - url open
-[INFO ] 2024-03-18 19:30:38.236 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-18 19:30:38.265 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-18 19:30:38.269 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-18 19:30:42.399 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-18 19:30:42.428 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-18 19:30:46.859 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 09:32:34.094 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:32:36.330 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:32:36.359 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:32:36.363 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:33:12.947 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:33:14.170 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:33:14.201 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:33:15.054 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:33:17.024 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:33:17.748 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:33:17.775 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:33:18.121 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:33:19.165 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:33:51.518 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:33:52.890 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:33:52.924 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:33:54.015 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:33:56.256 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:33:57.348 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:33:57.376 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:33:57.820 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:33:58.864 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:33:59.555 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 09:33:59.615 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 09:34:00.603 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 09:34:00.633 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 09:34:05.132 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 09:36:48.510 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:36:50.768 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:36:50.797 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:36:50.800 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:37:35.306 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:37:37.455 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:37:37.484 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:37:37.488 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:37:41.636 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 09:37:41.666 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 09:37:46.072 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 09:39:13.306 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:39:15.565 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:39:15.593 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:39:15.597 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:39:19.737 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 09:39:19.767 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 09:39:24.242 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 09:42:55.792 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:42:57.155 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:42:57.188 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:42:58.297 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:43:00.422 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:43:01.415 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:43:01.446 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:43:02.181 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:43:03.227 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:43:04.009 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 09:43:04.064 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 09:43:04.946 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 09:43:04.977 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 09:43:09.122 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 09:43:47.474 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-19 09:43:50.076 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-19 09:43:51.020 [main] MyFirstProject - create an object of Payment page
-[INFO ] 2024-03-19 09:43:57.562 [main] MyFirstProject - get confirmation message
-[INFO ] 2024-03-19 09:45:20.267 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:45:21.608 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:45:21.641 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:45:22.678 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:45:24.748 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:45:25.423 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:45:25.452 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:45:25.795 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:45:26.833 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:45:27.830 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 09:45:27.891 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 09:45:28.685 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 09:45:28.717 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 09:45:32.305 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 09:45:41.509 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-19 09:45:44.040 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-19 09:45:44.897 [main] MyFirstProject - create an object of Payment page
-[INFO ] 2024-03-19 09:45:50.188 [main] MyFirstProject - get confirmation message
-[INFO ] 2024-03-19 09:47:59.144 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:48:00.195 [TestNG-test-Test1-2] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 09:48:00.938 [TestNG-test-Test1-1] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:48:02.890 [TestNG-test-Test1-2] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:48:02.913 [TestNG-test-Test1-1] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:48:02.938 [TestNG-test-Test1-2] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:48:02.958 [TestNG-test-Test1-1] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:48:02.961 [TestNG-test-Test1-2] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:48:03.543 [TestNG-test-Test1-1] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:48:04.585 [TestNG-test-Test1-1] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:49:59.773 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:50:01.303 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:50:01.336 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:50:04.655 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:50:07.530 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:50:08.695 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:50:08.723 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:50:09.220 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:50:10.260 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:50:11.042 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 09:50:11.103 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 09:50:11.999 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 09:50:12.031 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 09:50:16.448 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 09:50:23.315 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-19 09:51:49.294 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:51:51.046 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:51:51.077 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:51:52.117 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:51:54.315 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:51:55.296 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:51:55.321 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:51:55.760 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:51:56.803 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:51:59.104 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:51:59.132 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:51:59.135 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:52:03.290 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 09:52:03.318 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 09:52:08.902 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 09:53:00.839 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:53:03.096 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:53:03.127 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:53:04.908 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:53:07.238 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:53:08.108 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:53:08.135 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:53:08.650 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:53:09.687 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:53:11.451 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:53:11.477 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:53:11.480 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:54:09.739 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:54:11.392 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:54:11.426 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:54:12.351 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:54:14.373 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:54:15.222 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:54:15.250 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:54:15.784 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:54:16.823 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:54:18.824 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:54:18.851 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:54:18.854 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:55:00.637 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 09:55:01.922 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:55:01.954 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:55:03.605 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:55:06.607 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 09:55:07.488 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 09:55:07.517 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 09:55:07.902 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:55:08.941 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 09:55:10.919 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 09:55:10.945 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 09:55:10.948 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 09:55:15.105 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 09:55:15.133 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 09:55:19.135 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 10:01:27.174 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:02:10.825 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:02:12.823 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:02:12.852 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:02:12.856 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:02:17.006 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 10:02:17.033 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 10:02:21.685 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 10:04:11.066 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:04:13.133 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:04:13.162 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:04:13.167 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:04:43.203 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:04:45.179 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:04:45.208 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:04:45.212 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:04:49.369 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 10:04:49.402 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 10:04:54.160 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 10:05:36.625 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:05:38.616 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:05:38.648 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:05:38.652 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:06:11.452 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:06:13.700 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:06:13.730 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:06:13.734 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:06:17.897 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 10:06:17.926 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 10:06:23.102 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 10:07:14.658 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:07:16.642 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:07:16.671 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:07:16.675 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:07:31.168 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:07:32.423 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:07:32.455 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:07:33.280 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:07:35.293 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 10:07:36.097 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:07:36.125 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:07:36.520 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:07:37.566 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 10:07:59.340 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:08:01.276 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:08:01.307 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:08:01.311 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:08:10.674 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:08:11.921 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:08:11.956 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:08:12.805 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:08:14.923 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 10:08:15.593 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:08:15.625 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:08:16.041 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:08:17.089 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 10:11:09.356 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:11:11.509 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:11:11.537 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:11:11.541 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:11:15.690 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 10:11:15.721 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 10:11:20.035 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 10:11:25.510 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:11:26.750 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:11:26.781 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:11:27.696 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:11:29.767 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 10:11:30.423 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:11:30.453 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:11:30.850 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:11:31.888 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 10:11:37.407 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:11:38.300 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:11:38.420 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:11:39.262 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:11:39.293 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:11:42.756 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:12:16.837 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:12:18.754 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:12:18.782 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:12:18.787 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:12:45.617 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:12:46.824 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:12:46.857 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:12:47.686 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:12:49.700 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 10:12:50.340 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:12:50.371 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:12:50.735 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:12:51.777 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 10:12:57.390 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:12:58.232 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:12:58.347 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:12:59.168 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:12:59.198 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:13:02.955 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:13:08.665 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:13:09.689 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:13:09.806 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:13:10.816 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:13:10.848 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:13:14.198 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:13:22.700 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-19 10:13:25.297 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-19 10:14:04.817 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:14:05.639 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:14:05.767 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:14:06.586 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:14:06.617 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:14:09.731 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:14:15.326 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:14:58.138 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:14:59.017 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:14:59.139 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:15:00.291 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:15:00.326 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:15:04.555 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:15:10.110 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:16:07.512 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:16:08.318 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:16:08.439 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:16:09.269 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:16:09.302 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:16:13.802 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:16:19.430 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:16:34.805 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:16:36.858 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:16:36.888 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:16:36.892 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:16:41.049 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-19 10:16:41.082 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-19 10:16:45.782 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-19 10:16:52.405 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:16:53.851 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:16:53.883 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:16:55.177 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:16:57.648 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 10:16:58.492 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:16:58.521 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:16:59.060 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:17:00.104 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 10:17:07.532 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:17:08.364 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:17:08.480 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:17:09.921 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:17:09.955 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:17:13.990 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:17:19.805 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:17:20.606 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:17:20.724 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:17:21.550 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:17:21.581 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:17:25.207 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:17:37.128 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-19 10:17:39.793 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-19 10:18:35.386 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:18:37.366 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-19 10:18:37.395 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:18:37.399 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-19 10:18:49.979 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:18:51.298 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:18:51.331 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:18:52.224 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:18:54.309 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-19 10:18:54.922 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-19 10:18:54.950 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-19 10:18:55.283 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-19 10:18:56.326 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-19 10:19:01.860 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:19:02.982 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:19:03.099 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:19:03.999 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:19:04.033 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:19:07.500 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:19:13.326 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:19:14.177 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:19:14.298 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:19:15.184 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:19:15.221 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:19:19.744 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:19:26.988 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-19 10:19:29.460 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-19 10:19:35.097 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:19:36.026 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:19:36.148 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:19:37.006 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:19:37.039 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:19:40.598 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:19:48.184 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-19 10:19:50.990 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-19 10:19:52.761 [main] MyFirstProject - create an object of Payment page
-[INFO ] 2024-03-19 10:20:00.183 [main] MyFirstProject - get confirmation message
-[INFO ] 2024-03-19 10:21:08.712 [main] MyFirstProject - url open
-[INFO ] 2024-03-19 10:21:10.376 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-19 10:21:10.488 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-19 10:21:14.465 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-19 10:21:14.498 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-19 10:21:20.067 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-19 10:21:27.663 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 10:51:59.950 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 10:52:02.203 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 10:52:02.231 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 10:52:02.235 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 10:52:06.402 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 10:52:06.436 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 10:52:10.929 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 10:52:17.158 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 10:52:18.439 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-22 10:52:18.472 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-22 10:52:19.613 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 10:52:21.779 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-22 10:52:22.538 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-22 10:52:22.566 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-22 10:52:23.247 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 10:52:24.290 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-22 10:52:30.313 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 10:52:31.340 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-22 10:52:31.463 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-22 10:52:32.446 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-22 10:52:32.481 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-22 10:52:36.291 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-22 10:52:41.853 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 10:52:42.636 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-22 10:52:42.759 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-22 10:52:43.618 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-22 10:52:43.649 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-22 10:52:47.197 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-22 10:53:00.401 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-22 10:53:02.953 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-22 10:53:08.571 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 10:53:09.346 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-22 10:53:09.471 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-22 10:53:10.262 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-22 10:53:10.293 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-22 10:53:13.393 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-22 10:53:24.414 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-22 10:53:26.761 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-22 10:53:27.600 [main] MyFirstProject - create an object of Payment page
-[INFO ] 2024-03-22 10:53:31.740 [main] MyFirstProject - get confirmation message
-[INFO ] 2024-03-22 11:35:35.174 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:35:37.134 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:35:37.164 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:35:37.169 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:37:35.801 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:37:37.874 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:37:37.903 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:37:37.907 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:37:42.079 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 11:37:42.111 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 11:37:46.184 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 11:41:41.753 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:41:43.667 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:41:43.696 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:41:43.700 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:42:13.042 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:42:15.000 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:42:15.029 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:42:15.033 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:42:19.172 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 11:42:19.204 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 11:42:23.571 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 11:44:27.871 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:44:30.695 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:44:30.725 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:44:30.730 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:44:54.343 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:44:56.361 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:44:56.389 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:44:56.393 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:45:00.534 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 11:45:00.568 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 11:45:05.211 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 11:46:19.660 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:46:21.700 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:46:21.729 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:46:21.734 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:46:44.696 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:46:46.655 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:46:46.683 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:46:46.689 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:46:50.830 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 11:46:50.864 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 11:46:53.894 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 11:50:48.658 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:50:50.630 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:50:50.657 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:50:50.662 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:51:24.858 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 11:51:27.138 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 11:51:27.166 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 11:51:27.170 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 11:51:31.304 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 11:51:31.335 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 11:51:35.613 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 12:04:13.230 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 12:04:15.243 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 12:04:15.273 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 12:04:15.277 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 12:05:11.209 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 12:05:13.121 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 12:05:13.154 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 12:05:13.159 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 12:05:17.295 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 12:05:17.334 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 12:05:22.080 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 12:11:28.875 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 12:11:30.868 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 12:11:30.898 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 12:11:30.902 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 12:11:35.065 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 12:11:35.100 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 12:11:38.252 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-22 12:12:15.870 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 12:12:18.057 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 12:12:18.085 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 12:12:18.089 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 12:13:39.308 [main] MyFirstProject - url open
-[INFO ] 2024-03-22 12:13:41.244 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-22 12:13:41.272 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-22 12:13:41.276 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-22 12:13:45.427 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-22 12:13:45.462 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-22 12:13:50.145 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-25 11:18:55.056 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:18:57.017 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:18:57.046 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:18:57.050 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:20:01.376 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:20:03.265 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:20:03.298 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:20:03.304 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:20:07.465 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-25 11:20:07.495 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-25 11:20:11.836 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-25 11:33:40.675 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:33:42.609 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:33:42.638 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:33:42.642 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:34:15.821 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:34:19.842 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:34:19.869 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:34:19.873 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:34:24.042 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-25 11:34:24.076 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-25 11:34:28.315 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-25 11:35:08.831 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:35:10.787 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:35:10.815 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:35:10.819 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:37:56.080 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:37:57.991 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:37:58.020 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:37:58.024 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:38:02.169 [main] MyFirstProject - Entered Name and Lastname
-[INFO ] 2024-03-25 11:38:02.204 [main] MyFirstProject - Entered password
-[INFO ] 2024-03-25 11:38:07.393 [main] MyFirstProject - verified user is created 
-[INFO ] 2024-03-25 11:38:48.402 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:38:50.337 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:38:50.367 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:38:50.371 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:41:58.475 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:42:00.691 [main] MyFirstProject - entered email address
-[INFO ] 2024-03-25 11:42:00.721 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:42:00.725 [main] MyFirstProject - Account creation page has opened
-[INFO ] 2024-03-25 11:42:47.997 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:42:49.340 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-25 11:42:49.374 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-25 11:42:50.266 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:42:52.492 [main] MyFirstProject - User registration with Valid email and Password is pass
-[INFO ] 2024-03-25 11:42:53.361 [main] MyFirstProject - entered registered email id
-[INFO ] 2024-03-25 11:42:53.391 [main] MyFirstProject - entered registered password 
-[INFO ] 2024-03-25 11:42:53.793 [main] MyFirstProject - clicked on submit button
-[INFO ] 2024-03-25 11:42:54.836 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
-[INFO ] 2024-03-25 11:43:00.737 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:43:01.652 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-25 11:43:01.775 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-25 11:43:03.050 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-25 11:43:03.085 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-25 11:43:06.858 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-25 11:43:12.445 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:43:13.225 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-25 11:43:13.346 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-25 11:43:14.191 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-25 11:43:14.224 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-25 11:43:17.545 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-25 11:43:24.586 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-25 11:43:27.195 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-25 11:43:32.848 [main] MyFirstProject - url open
-[INFO ] 2024-03-25 11:43:33.670 [main] MyFirstProject - clicked on SignIn button
-[INFO ] 2024-03-25 11:43:33.793 [main] MyFirstProject - Entered Email and Password 
-[INFO ] 2024-03-25 11:43:34.580 [main] MyFirstProject - Clicked on Submit Button
-[INFO ] 2024-03-25 11:43:34.611 [main] MyFirstProject - searched for T-shirts
-[INFO ] 2024-03-25 11:43:37.899 [main] MyFirstProject - Search Product test is passed
-[INFO ] 2024-03-25 11:43:49.253 [main] MyFirstProject - clicked AddToCart Button
-[INFO ] 2024-03-25 11:43:51.849 [main] MyFirstProject - clicked to Proceed to Checkout
-[INFO ] 2024-03-25 11:43:52.880 [main] MyFirstProject - create an object of Payment page
-[INFO ] 2024-03-25 11:43:58.149 [main] MyFirstProject - get confirmation message
+[INFO ] 2024-03-28 18:58:26.879 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 18:58:29.826 [main] MyFirstProject - entered email address
+[INFO ] 2024-03-28 18:58:29.855 [main] MyFirstProject - clicked on submit button
+[INFO ] 2024-03-28 18:58:29.859 [main] MyFirstProject - Account creation page has opened
+[INFO ] 2024-03-28 18:58:34.017 [main] MyFirstProject - Entered Name and Lastname
+[INFO ] 2024-03-28 18:58:34.048 [main] MyFirstProject - Entered password
+[INFO ] 2024-03-28 18:58:38.310 [main] MyFirstProject - verified user is created 
+[INFO ] 2024-03-28 19:04:30.702 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:04:31.970 [main] MyFirstProject - entered registered email id
+[INFO ] 2024-03-28 19:04:32.005 [main] MyFirstProject - entered registered password 
+[INFO ] 2024-03-28 19:04:32.907 [main] MyFirstProject - clicked on submit button
+[INFO ] 2024-03-28 19:04:34.847 [main] MyFirstProject - User registration with Valid email and Password is pass
+[INFO ] 2024-03-28 19:04:35.560 [main] MyFirstProject - entered registered email id
+[INFO ] 2024-03-28 19:04:35.588 [main] MyFirstProject - entered registered password 
+[INFO ] 2024-03-28 19:04:36.012 [main] MyFirstProject - clicked on submit button
+[INFO ] 2024-03-28 19:04:37.055 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
+[INFO ] 2024-03-28 19:04:44.093 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:04:44.977 [main] MyFirstProject - clicked on SignIn button
+[INFO ] 2024-03-28 19:04:45.134 [main] MyFirstProject - Entered Email and Password 
+[INFO ] 2024-03-28 19:04:45.908 [main] MyFirstProject - Clicked on Submit Button
+[INFO ] 2024-03-28 19:04:45.978 [main] MyFirstProject - searched for T-shirts
+[INFO ] 2024-03-28 19:04:49.583 [main] MyFirstProject - Search Product test is passed
+[INFO ] 2024-03-28 19:04:56.348 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:04:57.502 [main] MyFirstProject - clicked on SignIn button
+[INFO ] 2024-03-28 19:04:57.626 [main] MyFirstProject - Entered Email and Password 
+[INFO ] 2024-03-28 19:04:58.849 [main] MyFirstProject - Clicked on Submit Button
+[INFO ] 2024-03-28 19:04:58.885 [main] MyFirstProject - searched for T-shirts
+[INFO ] 2024-03-28 19:05:02.302 [main] MyFirstProject - Search Product test is passed
+[INFO ] 2024-03-28 19:05:12.269 [main] MyFirstProject - clicked AddToCart Button
+[INFO ] 2024-03-28 19:05:14.894 [main] MyFirstProject - clicked to Proceed to Checkout
+[INFO ] 2024-03-28 19:05:21.027 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:05:22.204 [main] MyFirstProject - clicked on SignIn button
+[INFO ] 2024-03-28 19:05:22.320 [main] MyFirstProject - Entered Email and Password 
+[INFO ] 2024-03-28 19:05:23.139 [main] MyFirstProject - Clicked on Submit Button
+[INFO ] 2024-03-28 19:05:23.171 [main] MyFirstProject - searched for T-shirts
+[INFO ] 2024-03-28 19:05:27.070 [main] MyFirstProject - Search Product test is passed
+[INFO ] 2024-03-28 19:05:38.907 [main] MyFirstProject - clicked AddToCart Button
+[INFO ] 2024-03-28 19:05:41.440 [main] MyFirstProject - clicked to Proceed to Checkout
+[INFO ] 2024-03-28 19:05:42.293 [main] MyFirstProject - create an object of Payment page
+[INFO ] 2024-03-28 19:05:48.641 [main] MyFirstProject - get confirmation message
+[INFO ] 2024-03-28 19:06:33.401 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:06:35.016 [main] MyFirstProject - entered registered email id
+[INFO ] 2024-03-28 19:06:35.046 [main] MyFirstProject - entered registered password 
+[INFO ] 2024-03-28 19:06:36.631 [main] MyFirstProject - clicked on submit button
+[INFO ] 2024-03-28 19:06:38.618 [main] MyFirstProject - User registration with Valid email and Password is pass
+[INFO ] 2024-03-28 19:06:39.533 [main] MyFirstProject - entered registered email id
+[INFO ] 2024-03-28 19:06:39.560 [main] MyFirstProject - entered registered password 
+[INFO ] 2024-03-28 19:06:39.955 [main] MyFirstProject - clicked on submit button
+[INFO ] 2024-03-28 19:06:41.001 [main] MyFirstProject - Registration with Invalid email and Password is Fail Hence test is passed
+[INFO ] 2024-03-28 19:06:46.814 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:06:47.692 [main] MyFirstProject - clicked on SignIn button
+[INFO ] 2024-03-28 19:06:47.822 [main] MyFirstProject - Entered Email and Password 
+[INFO ] 2024-03-28 19:06:48.707 [main] MyFirstProject - Clicked on Submit Button
+[INFO ] 2024-03-28 19:06:48.748 [main] MyFirstProject - searched for T-shirts
+[INFO ] 2024-03-28 19:06:52.754 [main] MyFirstProject - Search Product test is passed
+[INFO ] 2024-03-28 19:06:59.016 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:06:59.925 [main] MyFirstProject - clicked on SignIn button
+[INFO ] 2024-03-28 19:07:00.058 [main] MyFirstProject - Entered Email and Password 
+[INFO ] 2024-03-28 19:07:01.177 [main] MyFirstProject - Clicked on Submit Button
+[INFO ] 2024-03-28 19:07:01.210 [main] MyFirstProject - searched for T-shirts
+[INFO ] 2024-03-28 19:07:05.445 [main] MyFirstProject - Search Product test is passed
+[INFO ] 2024-03-28 19:07:22.369 [main] MyFirstProject - clicked AddToCart Button
+[INFO ] 2024-03-28 19:07:25.044 [main] MyFirstProject - clicked to Proceed to Checkout
+[INFO ] 2024-03-28 19:07:31.344 [main] MyFirstProject - url open
+[INFO ] 2024-03-28 19:07:32.200 [main] MyFirstProject - clicked on SignIn button
+[INFO ] 2024-03-28 19:07:32.321 [main] MyFirstProject - Entered Email and Password 
+[INFO ] 2024-03-28 19:07:33.156 [main] MyFirstProject - Clicked on Submit Button
+[INFO ] 2024-03-28 19:07:33.189 [main] MyFirstProject - searched for T-shirts
+[INFO ] 2024-03-28 19:07:36.619 [main] MyFirstProject - Search Product test is passed
+[INFO ] 2024-03-28 19:07:56.967 [main] MyFirstProject - clicked AddToCart Button
+[INFO ] 2024-03-28 19:07:59.828 [main] MyFirstProject - clicked to Proceed to Checkout
+[INFO ] 2024-03-28 19:08:00.707 [main] MyFirstProject - create an object of Payment page
+[INFO ] 2024-03-28 19:08:06.906 [main] MyFirstProject - get confirmation message

@@ -6,7 +6,6 @@ import com.mystorepageobject.myAccount;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.io.IOException;
 
 
 public class Tc_MyAccountPageTest extends BaseClass{
@@ -16,10 +15,11 @@ public class Tc_MyAccountPageTest extends BaseClass{
         indexPage Ipage=new indexPage(driver);
         Ipage.clickOnSignIn();
         Thread.sleep(1000);
+        myAccount act=new myAccount(driver);
         //enter email address
         String Email=read.getEmail();
         //create object of myAccount Class
-        myAccount act=new myAccount(driver);
+       // myAccount act=new myAccount(driver);
         act.enterCreateEmailAddress(Email);
         logger.info("entered email address");
         act.clickSubmitCreate();
@@ -30,7 +30,7 @@ public class Tc_MyAccountPageTest extends BaseClass{
         logger.info("Account creation page has opened");
 
     }
-    @Test(dependsOnMethods = {"createAnAccount"})
+   @Test(dependsOnMethods = {"createAnAccount"})
     public void enterInfo() throws InterruptedException
     {
         AccountCreationPage Acc=new AccountCreationPage(driver);
@@ -43,7 +43,6 @@ public class Tc_MyAccountPageTest extends BaseClass{
         //Acc.DateOfBirth();
         Acc.clickRegister();
         Thread.sleep(1000);
-        String Title=driver.getTitle();
 
         //verify user is created or not
         //created object of UserAccountPage

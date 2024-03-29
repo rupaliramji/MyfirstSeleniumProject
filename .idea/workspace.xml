@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3da622cd-801f-4fc3-a518-37e8441e7dbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MyStoreReport-2024.03.28 07:04:23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyStoreReport-2024.03.28 07:06:26.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Configuration/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/my-log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/my-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/my-log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot/AddToCart.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshot/AddToCart.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/mystoretestcase/Tc_MyAccountPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mystoretestcase/Tc_MyAccountPageTest.java" afterDir="false" />
     </list>
